@@ -1,5 +1,6 @@
 /* ----------- Navigation ----------- */
-  #xlNavbar .nav-link div:hover {
+  
+#xlNavbar .nav-link div:hover {
     border-bottom: 2px solid #fff;
 }
   
@@ -16,11 +17,12 @@
 }
 
  /* ----------- Hero ----------- */
-  
+  #welcome {
+    color: white;
+  }
   #hero {
-    background-image: url();
+    background-image: url(images/scott-serhat-duygun-alVthhdkV1A-unsplash.jpg);
     background-size: cover;
-    background-position: center bottom;
   }
   
   #hero h2 {
