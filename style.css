@@ -1,0 +1,35 @@
+/* ----------- Navigation ----------- */
+  #xlNavbar .nav-link div:hover {
+    border-bottom: 2px solid #fff;
+}
+  
+  #navbar {
+    z-index: 1;
+}
+  
+  #xlNavbar .navbar-brand, #navbarMenuToggler, #xlNavbar .nav-link {
+    line-height: 80px;
+}
+  
+  #xlNavbar .nav-link {
+    font-size: 14px;
+}
+
+ /* ----------- Hero ----------- */
+  
+  #hero {
+    background-image: url();
+    background-size: cover;
+    background-position: center bottom;
+  }
+  
+  #hero h2 {
+    padding-top: 168px;
+  }
+  
+  @media (min-width: 1200px) {
+    #hero {
+      height: 100vh;
+      min-height: 650px;
+    }
+  }
