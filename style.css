@@ -24,10 +24,7 @@
     background-image: url(images/scott-serhat-duygun-alVthhdkV1A-unsplash.jpg);
     background-size: cover;
   }
-  
-  #hero h2 {
-    padding-top: 168px;
-  }
+
   
   @media (min-width: 1200px) {
     #hero {
@@ -35,3 +32,24 @@
       min-height: 650px;
     }
   }
+
+
+/*------------ Skills ---------- */
+* {box-sizing: border-box;}
+
+.Skills {
+  width: 100%;
+  background-color: grey;
+}
+.skills{
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.html { width: 90%; background-color: lightblue;}
+.js { width: 0%; background-color: cyan;}
+.DWD { width: 0%; background-color: rgb(77,182,172);}
+.Reactjs { width: 0%; background-color: rgb(0, 137, 123);}
+.Ruby { width: 0%; background-color: rgb(174, 213, 129);}
+.ROR { width: 0%; background-color: rgb(129, 199, 132);}
