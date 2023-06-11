@@ -53,3 +53,18 @@
 .Reactjs { width: 0%; background-color: rgb(0, 137, 123);}
 .Ruby { width: 0%; background-color: rgb(174, 213, 129);}
 .ROR { width: 0%; background-color: rgb(129, 199, 132);}
+
+.aboutmyskills{
+  padding-bottom: 100px;
+}
+
+/*------------ Portfolio ---------- */
+#Portfolio{
+  background: fixed;
+  background-color: black;
+  padding: 100px;
+}
+/*------------ Contacts ---------- */
+#contact{
+  padding: 100px;
+}
