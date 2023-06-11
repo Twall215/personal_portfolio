@@ -33,18 +33,23 @@
     }
   }
 
-
+/*------------ About Me ---------- */
+#aboutmepicture{
+  padding-top: 100px;
+}
 /*------------ Skills ---------- */
-* {box-sizing: border-box;}
-
+#skillspicture{
+  padding-top:100px;
+}
+#skillslist{
+  padding-bottom: 50px;
+}
 .Skills {
   width: 100%;
   background-color: grey;
 }
 .skills{
   text-align: right;
-  padding-top: 10px;
-  padding-bottom: 10px;
   color: white;
 }
 .html { width: 90%; background-color: lightblue;}
